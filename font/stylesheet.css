@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'MuseumClassic';
+    src: url('MuseumClassicLightA.woff2') format('woff2'),
+        url('MuseumClassicLightA.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MuseumClassic';
+    src: url('MuseumClassicMediumA.woff2') format('woff2'),
+        url('MuseumClassicMediumA.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MuseumClassic';
+    src: url('MuseumClassicBoldA.woff2') format('woff2'),
+        url('MuseumClassicBoldA.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
